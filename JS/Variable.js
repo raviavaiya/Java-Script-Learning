@@ -42,9 +42,10 @@ isfollow = true;
 
 
 // Data Types of JS
+// Primitive DataTypes
 // Number, String, Boolean, Undefined, Null, BigInt, Symbol
 
-//Object
+//Object - Non-Primitive DataTypes
 
 const student = {
     name: "Ravi Avaiya",
